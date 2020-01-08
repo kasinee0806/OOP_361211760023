@@ -38,7 +38,7 @@ public class Method_Exercise {
 
     //div
     public static double div(double x, double y) {
-        return x * y;
+        return x / y;
     }
 }
 
